@@ -1,0 +1,8 @@
+[
+  "Open your Terminal.",
+  "Clone the repository with: git clone https://github.com/<your-username>/linux-scripting-begginers.git",
+  "Navigate into the project folder: cd linux-scripting-begginers",
+  "Make scripts executable: chmod +x setup.sh examples/*.sh",
+  "Run setup: ./setup.sh",
+  "Run an example script: ./examples/basic_commands.sh or ./examples/automation.sh"
+]
